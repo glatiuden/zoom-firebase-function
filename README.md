@@ -5,8 +5,7 @@
 - Copy the API Key and Secrets
 
 ## Setting up the Firebase Functions
-
-- Step 1: `firebase init functions`
+- Step 1: Clone this repository and run `firebase init functions`
   - Choose your firebase project. For types, choose JavaScript.
 - Step 2: Set your API Key and Secrets in your Firebase Config
 
